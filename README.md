@@ -1,10 +1,1 @@
-A collection of trading strategies written in R. 
-
-
-````R
-> require(musteringofstorks)
-
-> demo("bumblebee")
-````
-
-`musteringofstorks` strategies are written in `quantstrat`. 
+An R package to present financial data under the Grammar of Graphics
