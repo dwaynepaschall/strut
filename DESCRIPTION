@@ -6,5 +6,5 @@ Date: 2013-01-15
 Author: milktrader  
 Maintainer: milktrader <milktrader@gmail.com>
 Description: Pretty trade statistics
-Depends: quantstrat, PerformanceAnalytics, ggplot2 
+Depends: quantstrat, PerformanceAnalytics, ggplot2, vioplot
 License: GPL-2 
