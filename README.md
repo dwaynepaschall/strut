@@ -1,1 +1,1 @@
-An R package to present financial data under the Grammar of Graphics
+Pretty trade statistics for quantstrat strategies. 

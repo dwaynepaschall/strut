@@ -1,10 +1,10 @@
 Package: strut
 Type: Package
-Title: Plotting financial data under the Grammar of Graphics
+Title: Pretty trade statistics
 Version: 0.1  
 Date: 2013-01-15
 Author: milktrader  
 Maintainer: milktrader <milktrader@gmail.com>
-Description: Plotting financial data under the Grammar of Graphics
-Depends: ggplot2 
+Description: Pretty trade statistics
+Depends: quantstrat, PerformanceAnalytics, ggplot2 
 License: GPL-2 
